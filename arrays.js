@@ -19,3 +19,9 @@ function addElementToEndOfArray(array, element)
   let newArray1=[...array,element]
   return newArray1
 }
+destructivelyAddElementToEndOfArray(array, element)
+{
+  array.push(element)
+  return array
+}
+
