@@ -21,6 +21,6 @@ function addElementToEndOfArray(array, element)
 }
 destructivelyAddElementToEndOfArray(array, element)
 {
-  array.push(element)
-  return array
+  let array1=array.push(element)
+  return array1
 }
