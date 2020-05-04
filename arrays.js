@@ -1,4 +1,4 @@
-var chocolateBars=[
+let chocolateBars=[
   'snickers',
   'hundred grand',
   'kitkat',
