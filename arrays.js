@@ -20,5 +20,5 @@ function addElementToEndOfArray(array, element)
 }
 destructivelyAddElementToEndOfArray(array, element)
 {
-  
+
 }
